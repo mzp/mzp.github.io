@@ -24,11 +24,13 @@
  * [prpr](https://github.com/mzp/prpr): Bot framework for github pull request
  * [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite): Realtime chat application for developers
  * [keima](https://github.com/codefirst/keima): A simple, open, realtime notification service
+ * [LoveLiver](https://github.com/mzp/LoveLiver) - Create Apple's Live Photos from JPEG and MOV.
 
 ### libraries
 
  * [japan-postal-code](https://www.npmjs.com/package/japan-postal-code): JavaScript module for Japan Postal Code.
  * [msgpack-ocaml](https://github.com/msgpack/msgpack-ocaml/issues): MessagePack for OCaml
+ * [cocoapods-app_group](https://github.com/mzp/cocoapods-app_group) - CocoaPods plugin to customizable app group name.
 
 ### previous project
  
