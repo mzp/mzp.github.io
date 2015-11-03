@@ -19,12 +19,12 @@
  * [AquaSKK](https://github.com/codefirst/aquaskk): SKK for MacOS X
  * [FlickSKK](https://github.com/codefirst/FlickSKK): SKK for iOS
  * [homebrew-sparkling](https://github.com/codefirst/homebrew-sparkling): Homebrew for iOS
+ * [LoveLiver](https://github.com/mzp/LoveLiver) - Create Apple's Live Photos from JPEG and MOV.
 
 ### Web Apps
  * [prpr](https://github.com/mzp/prpr): Bot framework for github pull request
  * [AsakusaSatellite](https://github.com/codefirst/AsakusaSatellite): Realtime chat application for developers
  * [keima](https://github.com/codefirst/keima): A simple, open, realtime notification service
- * [LoveLiver](https://github.com/mzp/LoveLiver) - Create Apple's Live Photos from JPEG and MOV.
 
 ### libraries
 
