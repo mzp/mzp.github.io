@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mzp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mzp.jp
+  * I am mzp (https://keybase.io/mzp) on keybase.
+  * I have a public key ASAwwDPqzgm4PlvU_jfr-ryuG8e2dvbb74lIj3jnHgC4mwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015c7e23778695f82558040537418820e81af74e9406098872f4f73cdc6c5890050a",
+      "host": "keybase.io",
+      "kid": "012030c033eace09b83e5bd4fe37ebfabcae1bc7b676f6dbef89488f78e71e00b89b0a",
+      "uid": "0be3c260878bf77c083f45feffe96419",
+      "username": "mzp"
+    },
+    "merkle_root": {
+      "ctime": 1514205247,
+      "hash": "4e1b1bafa48fdb97dde690a186974a67585c1b4a48bfc691b5d696067f394c12a6acf1d2c725d4a3733bcecd559acd505cc19fe2af7a824ae1948dc662f39498",
+      "hash_meta": "fa77c622a4948ce8aa648654707b79da3a745e1387ff57d2a4f579b82f54aab8",
+      "seqno": 1856465
+    },
+    "service": {
+      "hostname": "mzp.jp",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514205252,
+  "expire_in": 504576000,
+  "prev": "63dfe7b6e0411f4192c7ae9be050e93ba2eaabda84a01cf86f49d1dbb153253f",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMMAz6s4JuD5b1P436/q8rhvHtnb22++JSI945x4AuJsKp3BheWxvYWTFAzl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNWM3ZTIzNzc4Njk1ZjgyNTU4MDQwNTM3NDE4ODIwZTgxYWY3NGU5NDA2MDk4ODcyZjRmNzNjZGM2YzU4OTAwNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzBjMDMzZWFjZTA5YjgzZTViZDRmZTM3ZWJmYWJjYWUxYmM3YjY3NmY2ZGJlZjg5NDg4Zjc4ZTcxZTAwYjg5YjBhIiwidWlkIjoiMGJlM2MyNjA4NzhiZjc3YzA4M2Y0NWZlZmZlOTY0MTkiLCJ1c2VybmFtZSI6Im16cCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNDIwNTI0NywiaGFzaCI6IjRlMWIxYmFmYTQ4ZmRiOTdkZGU2OTBhMTg2OTc0YTY3NTg1YzFiNGE0OGJmYzY5MWI1ZDY5NjA2N2YzOTRjMTJhNmFjZjFkMmM3MjVkNGEzNzMzYmNlY2Q1NTlhY2Q1MDVjYzE5ZmUyYWY3YTgyNGFlMTk0OGRjNjYyZjM5NDk4IiwiaGFzaF9tZXRhIjoiZmE3N2M2MjJhNDk0OGNlOGFhNjQ4NjU0NzA3Yjc5ZGEzYTc0NWUxMzg3ZmY1N2QyYTRmNTc5YjgyZjU0YWFiOCIsInNlcW5vIjoxODU2NDY1fSwic2VydmljZSI6eyJob3N0bmFtZSI6Im16cC5qcCIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE0MjA1MjUyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjYzZGZlN2I2ZTA0MTFmNDE5MmM3YWU5YmUwNTBlOTNiYTJlYWFiZGE4NGEwMWNmODZmNDlkMWRiYjE1MzI1M2YiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEC1X5YzWWSRHMMs54tQanjUliof3Y6QEiFD3XCeATrd5i7RwqarC5alav3JjPlbFJY/damQoc3fcz8Rz/atR0kIqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgbrcNu/YYOD6js8Ktu6iXzVpjxIp37Y+77dcVXI/lO+ejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mzp
+
+==================================================================
