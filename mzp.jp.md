@@ -8,7 +8,7 @@
  * Blog: [みずぴー日記](http://mzp.hatenablog.com), [🍣.gq](http://xn--9i8h.gq/)
  * Job: Software Engineer
 
-## Interest
+## Interests
 
  * Input methods/Typography
  * Lambda calculous
