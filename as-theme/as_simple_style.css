@@ -1,7 +1,23 @@
+:root {
+  --background-color: #dedede;
+  --info-background-color: #fafafa;
+  --font-color: #333333;
+  --message-border-color: rgba(0, 0, 0, 0.2);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --font-color: #dedede;
+    --background-color: #333333;
+    --info-background-color: black;
+    --message-border-color: rgba(255, 255, 255, 0.2);
+  }
+}
+
 body {
   /*background-image: url("https://dl.dropbox.com/u/3272886/as/assets/bedge_grunge_@2X.png");*/
-  background-color: #dedede;
-  color: #333333; }
+  background-color: var(--background-color);
+  color: var(--font-color); }
 
 .main {
   -webkit-border-radius: 0;
@@ -28,7 +44,7 @@ body {
   background: -o-linear-gradient(top, #fbfbfb 41%, #ededed 100%), #f9f9f9;
   background: linear-gradient(top, #fbfbfb 41%, #ededed 100%), #f9f9f9;
 */
-  background: #fafafa;
+  background: var(--info-background-color);
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
@@ -47,7 +63,7 @@ a:hover { text-decoration: underline; }
   -ms-border-radius: 0px;
   -o-border-radius: 0px;
   border-radius: 0px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid var(--message-border-color);
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
@@ -122,7 +138,7 @@ img.profile {
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     border-radius: 8px; }
-  
+
 .configure .members li img.profile-image {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
